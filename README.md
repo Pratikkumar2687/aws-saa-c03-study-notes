@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/github-banner.png" alt="AWS SAA-C03 Study Notes Banner" width="100%">
+</p>
 # ☁️ AWS Certified Solutions Architect -- Associate (SAA-C03) Study Notes
 
 Welcome to my AWS Solutions Architect Associate (SAA-C03) study
